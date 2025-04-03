@@ -22,6 +22,8 @@ let bill = 0
  }
 
  function receiveTipPercentageValue(value) {
+    tipPercentage = value / 100
+ 
     buttonSelected = document.querySelector("")
 }
  
